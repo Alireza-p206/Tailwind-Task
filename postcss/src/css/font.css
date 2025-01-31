@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Vazirmatn;
+    src: url(/postcss/assets/fonts/Vazirmatn-Medium.ttf);
+    font-style: normal;
+    font-weight:normal;
+}
+
+@font-face {
+    font-family:Vazirmatn;
+    src: url(/postcss/assets/fonts/Vazirmatn-Light.ttf);
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family:Vazirmatn;
+    src: url(/postcss/assets/fonts/Vazirmatn-Regular.ttf);
+    font-style: normal;
+    font-weight:normal;
+}
+
+@font-face {
+    font-family:Vazirmatn;
+    src: url(/postcss/assets/fonts/Vazirmatn-SemiBold.ttf);
+    font-style: normal;
+    font-weight:bold;
+}
